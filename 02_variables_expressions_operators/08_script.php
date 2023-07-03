@@ -18,7 +18,6 @@ $can_buy = ($wanted <= $stock);
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>
