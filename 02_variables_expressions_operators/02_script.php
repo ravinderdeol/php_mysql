@@ -1,5 +1,6 @@
 <?php
 
+// Use associative arrays when you know the data the array will hold and need to retrieve a single piece of data using a key name
 // To create an associative array, assign values to specific keys that describe the data
 // Store the associative array in a variable using a descriptive name, the assignment operator, and square brackets
 // Inside the brackets, use quotes for key names, the double arrow operator to associate it with a value, and separate elements with commas
@@ -8,6 +9,9 @@ $nutrition = [
     'sugar' => 51,
     'salt' => 6.3,
 ];
+
+// Update a value in an associative array by using the variable name holding the array, square brackets with the key name in quotes, an assignment operator, and the new desired value
+$nutrition['fat'] = 36;
 ?>
 
 <!DOCTYPE html>
