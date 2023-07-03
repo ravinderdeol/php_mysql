@@ -22,7 +22,6 @@ $saving_percentage = ($saving_price / $usual_price) * 100;
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>
