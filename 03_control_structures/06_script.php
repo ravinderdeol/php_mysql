@@ -11,7 +11,6 @@ $offer = match ($day) {
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>
