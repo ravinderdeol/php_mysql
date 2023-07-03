@@ -1,2 +1,2 @@
-# php_mysql
-📚 PHP And MySQL Exercises 
+# PHP And MySQL
+Exercises from PHP And MySQL by Jon Duckett.
