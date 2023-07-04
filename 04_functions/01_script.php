@@ -1,6 +1,7 @@
 <?php
 
 // Functions only run when they are called regardless of where they are in the script
+// Functions that write to the screen use the 'echo' keyword
 function copyright_notice()
 {
     $year = date('Y');
