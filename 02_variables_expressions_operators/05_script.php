@@ -4,7 +4,6 @@ $favorites = ['Chocolate', 'Toffee', 'Fudge',];
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>

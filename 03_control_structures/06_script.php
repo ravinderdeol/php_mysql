@@ -11,11 +11,10 @@ $offer = match ($day) {
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>
-    <title>Match Expressions</title>
+    <title>Using Match Expressions</title>
 </head>
 
 <body>

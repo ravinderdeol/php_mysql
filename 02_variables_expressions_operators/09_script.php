@@ -13,7 +13,6 @@ $can_buy = (($wanted <= $stock) && ($deliver == true));
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>

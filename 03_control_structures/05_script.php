@@ -19,7 +19,6 @@ switch ($day) {
 ?>
 
 <!DOCTYPE html>
-
 <html>
 
 <head>
