@@ -1,4 +1,6 @@
 <?php
+
+// Functions only run when they are called regardless of where they are in the script
 function copyright_notice()
 {
     $year = date('Y');
