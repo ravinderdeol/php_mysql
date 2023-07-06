@@ -1,6 +1,7 @@
 <?php
 
 // You can put parameter names before arguments meaning arguments do not need to be passed in the order they are defined
+// If you do not name arguments they must be passed in the order they are defined
 function calculate_cost($cost, $qty, $discount = 0, $tax = 20,)
 {
     $cost = $cost * $qty;
