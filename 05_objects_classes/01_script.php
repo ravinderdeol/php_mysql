@@ -1,6 +1,10 @@
 <?php
 
+// In an object the variables are called properties
+// In an object the functions are called methods
+
 // Classes must be defined with the 'class' keyword
+// Classes are used as a template to create objects
 // Class names should be in upper camel case
 class Account
 {
